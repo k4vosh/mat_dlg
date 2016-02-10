@@ -1,5 +1,5 @@
 # matlab-mat_dlg
-Functions providing input and viewing dialogues for 2-D matrices.
+Functions providing input and viewing dialogues for 2-D matrices in MATLAB.
 
 
 This library is provided under the MIT license.
